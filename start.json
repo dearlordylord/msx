@@ -1,7 +1,7 @@
 {
   "name": "Lampa · личная сборка",
-  "version": "2026.10.23.5",
-  "parameter": "content:https://dearlordylord.github.io/lampa/msx/menu.json?v=5",
+  "version": "2026.10.24.6",
+  "parameter": "content:https://dearlordylord.github.io/lampa/msx/menu.json?v=6",
   "welcome": "none",
   "launcher": {
     "icon": "movie",
