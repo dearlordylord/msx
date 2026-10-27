@@ -1,7 +1,7 @@
 {
   "name": "Мой телевизор",
-  "version": "2026.10.27.1",
-  "parameter": "content:https://dearlordylord.github.io/lampa/msx/subtitle-check.json?v=1",
+  "version": "2026.10.24.9",
+  "parameter": "content:https://dearlordylord.github.io/lampa/msx/menu.json?v=9",
   "welcome": "none",
   "launcher": {
     "icon": "movie",
